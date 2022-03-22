@@ -1,0 +1,176 @@
+***********************************************
+you obtain 1000 Byte memory and the head address is 0x55d54c89b2b0.
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please input the size to be allocated.
+NOTE: the size should be a integar.
+************************************************************
+The quantity of maps is : 1
+num               address                size
+1                 0x55d54c89b314                900
+************************************************************
+malloc success!
+The alloc address next searching is: 0x55d54c89b314.
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please specify the address of memory to be freed.
+NOTE: input the relative address(aka offset, which ranges in [0, 1000]) is OK.
+Please input the size of freed memory.
+NOTE: the size should be a integar.
+Free failed!
+Please re-enter the size and address!
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please input the size to be allocated.
+NOTE: the size should be a integar.
+************************************************************
+The quantity of maps is : 1
+num               address                size
+1                 0x55d54c89b3aa                750
+************************************************************
+malloc success!
+The alloc address next searching is: 0x55d54c89b3aa.
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please specify the address of memory to be freed.
+NOTE: input the relative address(aka offset, which ranges in [0, 1000]) is OK.
+Please input the size of freed memory.
+NOTE: the size should be a integar.
+Free succeeded!
+************************************************************
+The quantity of maps is : 2
+num               address                size
+1                 0x55d54c89b2e2                50
+2                 0x55d54c89b3aa                750
+************************************************************
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please input the size to be allocated.
+NOTE: the size should be a integar.
+************************************************************
+The quantity of maps is : 2
+num               address                size
+1                 0x55d54c89b2e2                50
+2                 0x55d54c89b472                550
+************************************************************
+malloc success!
+The alloc address next searching is: 0x55d54c89b2e2.
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please specify the address of memory to be freed.
+NOTE: input the relative address(aka offset, which ranges in [0, 1000]) is OK.
+Please input the size of freed memory.
+NOTE: the size should be a integar.
+Free succeeded!
+************************************************************
+The quantity of maps is : 3
+num               address                size
+1                 0x55d54c89b2e2                50
+2                 0x55d54c89b378                100
+3                 0x55d54c89b472                550
+************************************************************
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please input the size to be allocated.
+NOTE: the size should be a integar.
+soory,without enough memory space
+malloc success!
+The alloc address next searching is: 0x55d54c89b2e2.
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please input the size to be allocated.
+NOTE: the size should be a integar.
+************************************************************
+The quantity of maps is : 3
+num               address                size
+1                 0x55d54c89b2e2                50
+2                 0x55d54c89b3b4                40
+3                 0x55d54c89b472                550
+************************************************************
+malloc success!
+The alloc address next searching is: 0x55d54c89b472.
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Please specify the address of memory to be freed.
+NOTE: input the relative address(aka offset, which ranges in [0, 1000]) is OK.
+Please input the size of freed memory.
+NOTE: the size should be a integar.
+Free succeeded!
+************************************************************
+The quantity of maps is : 4
+num               address                size
+1                 0x55d54c89b2e2                50
+2                 0x55d54c89b3b4                40
+3                 0x55d54c89b5d0                200
+4                 0x55d54c89b472                550
+************************************************************
+************************************************************
+please choose the operation you want
+tips:
+M/m : malloc
+F/f : free
+l/L  : show all of maps
+q/Q   : quit
+************************************************************
+Having free the 1 th map.
+exit
+Having free the 2 th map.
+exit
+Having free the 3 th map.
+exit
+Having free the 4 th map.
+exit
