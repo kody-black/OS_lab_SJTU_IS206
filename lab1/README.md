@@ -2,5 +2,5 @@
 
 ```BASH
 gcc -g memory_manage.c -o manager
-./manager <test> result
+./manager <input> result
 ```
